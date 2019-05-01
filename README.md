@@ -1,4 +1,5 @@
 # mva
+dependência : matplotlib
 
-run : 
+run ->>
 python3 MVA.py
