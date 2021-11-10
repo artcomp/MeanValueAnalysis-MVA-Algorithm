@@ -1,5 +1,8 @@
-# mva
+# Mean Value Analysis Algorithm
+'''
 dependência : matplotlib
+'''
 
-run ->>
+'''
 python3 MVA.py
+'''
