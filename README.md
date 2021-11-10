@@ -1,4 +1,4 @@
-# Mean Value Analysis Algorithm
+# Mean Value Analysis (MVA) Algorithm
 
 Dependência: 
 >  matplotlib
